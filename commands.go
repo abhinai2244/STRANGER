@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Machiel/telegrambot"
+	"github.com/Abhinai2244/telegrambot"
 )
 
 // CommandHandler supplies an interface for handling messages
