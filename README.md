@@ -54,3 +54,6 @@ TELEGRAM_BOT_KEY
 ```
 
 You can then run start StrangerBot by running  in your terminal.
+
+#owner:Abhinai  telegram id :@clutch008 
+dm for the commands
