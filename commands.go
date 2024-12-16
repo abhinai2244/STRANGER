@@ -197,7 +197,6 @@ Use /nopics to disable receiving photos, and /nopics if you want to enable it ag
 
 Sending images and videos are a beta functionality, but appear to be working fine.
 
-If you have any suggestions or require help, please contact @MachielMolenaar on Twitter, or follow @MachielMolenaar on Twitter for updates. (http://twitter.com/MachielMolenaar)`, emptyOpts)
 
 	return true
 }
